@@ -5,42 +5,42 @@ let projects = [
     student: "Ashma , Divya,Shivika — Grade 7",
     category: "Science",
     description: "A model of the human respiratory system built from everyday materials. Demonstrates how air flows through the lungs and how the diaphragm assists in breathing.",
-    video: "D:\\MPS project\\respiratory system.mp4",
+    video: "videos/respiratory system.mp4",
   },
   {
     title: "Hemodialysis ",
     student: "Angel , Vidushi — Grade 9",
     category: "Science",
     description: "Hemodialysis is a medical procedure that uses a machine and a special filter called an artificial kidney to clean toxins, waste products, and excess fluids from the blood when a person's kidneys can no longer do so properly",
-    video: "D:\\MPS project\\Hemodialysis.mp4",
+    video: "videos/hemodialysis.mp4",
   },
   {
     title: "Water Cycle Model",
     student: "Shorya , Divyanshu — Grade 7",
     category: "Science",
     description: "A model demonstrating the water cycle, including evaporation, condensation, and precipitation. Shows how water moves through the environment.",
-    video: "D:\\MPS project\\Water Cycle.mp4",
+    video: "videos/water cycle.mp4",
   },
   {
     title: "Acid Rain",
     student: "Shagun , Mahi , Pari , Yashvi — Grade 8",
     category: "Science",
     description: "A model demonstrating the effects of acid rain on the environment, including its impact on plants and aquatic ecosystems.",
-    video: "D:\\MPS project\\Acid Rain.mp4",
+    video: "videos/acidrain.mp4",
   },
     {
     title: "Water Dam Model",
     student: "Anubhav , Ashfahad , Harsh , Shubh , Vansh  — Grade 9",
     category: "Science",
     description: "A model demonstrating the effects of water dams on the environment, including its impact on local ecosystems.",
-    video: "D:\\MPS project\\Water dam.mp4",
+    video: "videos/water dam.mp4",
   },
    {
     title: "Day and night  Model",
     student: "Shadan — Grade 6",
     category: "Science",
     description: "A model demonstrating the effects of the earth's rotation on the cycle of day and night.",
-    video: "D:\\MPS project\\Day and night.mp4",
+    video: "videos/dayandnight.mp4",
   },
   
 
@@ -49,7 +49,7 @@ let projects = [
     student: "Aditi ,Divya , Ashma , Shivika— Grade 7",
     category: "S.studies",
     description: "A model demonstrating the sources of Indian history, including archaeological findings and historical texts.",
-    video: "D:\\MPS project\\indian history.mp4",
+    video: "videos/indian history.mp4",
   },
 ];
 
